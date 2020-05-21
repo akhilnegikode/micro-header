@@ -1,0 +1,9 @@
+{
+  "name": "micro-header-nav",
+  "author":"test user",
+  "version": "1.0.3",
+  "license": "MIT",
+   "main": "bundles/micro-header-nav.umd.js",
+  "module": "index.js",
+  "typings": "index.d.ts"
+}
